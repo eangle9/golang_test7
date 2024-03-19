@@ -1,0 +1,14 @@
+<Envelope soapenv="http://schemas.xmlsoap.org/soap/envelope/" c2b="http://cps.huawei.com/cpsinterface/c2bpayment">&#xA;&#xA;&#xA;
+ <Header></Header>
+ <Body>&#xA;&#xA;
+  <C2BPaymentQueryResult>&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;
+   <ResultCode>2</ResultCode>
+   <ResultDesc>Failed</ResultDesc>
+   <TransID>10111</TransID>
+   <BillRefNumber>12233</BillRefNumber>
+   <UtilityName>sddd</UtilityName>
+   <CustomerName>wee</CustomerName>
+   <Amount>30</Amount>
+  </C2BPaymentQueryResult>
+ </Body>
+</Envelope>
